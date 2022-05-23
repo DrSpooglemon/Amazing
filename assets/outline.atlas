@@ -1,0 +1,16 @@
+{
+	"outline.png": {
+		"top-left":			[  0, 68, 36, 36 ],
+		"top-right":		[ 68, 68, 36, 36 ],
+		"bottom-left":		[  0,  0, 36, 36 ],
+		"bottom-right":		[ 68,  0, 36, 36 ],
+		"top":				[ 36, 68, 32, 34 ],
+		"bottom":			[ 36,  0, 32, 34 ],
+		"left":				[  0, 36, 34, 32 ],
+		"right":			[ 68, 36, 34, 32 ],
+		"left-cap-top":		[  0, 68,  6, 36 ],
+		"left-cap-bottom":	[  0,  0,  6, 36 ],
+		"right-cap-top":	[ 98, 68,  6, 36 ],
+		"right-cap-bottom":	[ 98,  0,  6, 36 ]
+	}
+}
